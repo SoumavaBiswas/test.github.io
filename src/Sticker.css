@@ -1,0 +1,24 @@
+.dog-sticker{
+    position: sticky;
+    display: float;
+    height:fit-content;
+    width: fit-content;
+    
+}
+/* .dog-sticker-left{
+    position: sticky;
+    bottom: 5%;
+    display: float;
+    margin-right: auto;
+    height:fit-content;
+    width: fit-content;
+    
+} */
+
+ .grass{
+
+    position: fixed;
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+} 
