@@ -2,8 +2,8 @@
 import './App.css';
 import './index.css';
 import './Sticker.css'
-import Home from './Home';
-import { User, UserWithState } from './User';
+//import Home from './Home';
+//import { User, UserWithState } from './User';
 import { Sticker, Grass } from './Sticker';
 import PropsTest from './TestProps';
 
@@ -40,7 +40,7 @@ function App() {
         {/* <Home />
         <User /> */}
         <PropsTest {...person} />
-        <UserWithState />
+        {/* <UserWithState /> */}
 
 
       </header>
